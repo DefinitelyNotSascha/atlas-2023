@@ -1,0 +1,49 @@
+{
+	"id": 990,
+	"name": "Coat of arms of Grisons",
+	"description": "Grisons is a canton in Switzerland.\n\nThe alpine ibex on it has been changed to an amogus (Graubündus) numerous times.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Canton_of_Grisons",
+			"https://en.wikipedia.org/wiki/Switzerland"
+		],
+		"subreddit": [
+			"placeCH",
+			"Switzerland"
+		]
+	},
+	"path": {
+		"98-256": [
+			[
+				-529,
+				236
+			],
+			[
+				-518,
+				236
+			],
+			[
+				-518,
+				245
+			],
+			[
+				-521,
+				248
+			],
+			[
+				-526,
+				248
+			],
+			[
+				-529,
+				245
+			]
+		]
+	},
+	"center": {
+		"98-256": [
+			-523,
+			242
+		]
+	}
+}
